@@ -3,6 +3,7 @@ PHP with Laravel simple blog app with comments
 
 Frontend packed as SPA into several module without link to Laravel and Blade templates.
 
+![Фронтенд](front_1.jpg)
 
 ## Minimal software requirements
 * Docker
